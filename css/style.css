@@ -1,0 +1,99 @@
+.top{
+    height: 700px;
+    background-color: #e9506c81;
+    margin: 0px;
+    padding-top: 40px;
+}
+
+body{
+    margin : 0px;
+    text-align: center;
+}
+
+h1{
+    margin: 0px;
+    font-family: cursive;
+    font-size: 90px;
+    margin-bottom: 100px;
+    color: #566415;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 40px;
+    margin : 10px;
+    color: #566415;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 40px;
+    margin : 50px auto 0px auto;
+    color: #566415;
+    padding-top: 50px;
+}
+
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin : 0px auto 50px auto;
+}
+
+
+.top_cloud{
+    position: absolute;
+    right : 200px;
+}
+.bottom_cloud{
+    position: absolute;
+    left : 200px;
+}
+.mountain1{
+    position: relative;
+    top: 50px;
+}
+.mountain2{
+    position:relative;
+    top:50px;
+    right:80px;
+}
+
+.middle-container{
+    margin: 150px;
+}
+
+.skills{
+    margin : 100px;
+    height:800px;
+}
+
+.profile{
+    margin: 100px auto;
+}
+
+.ml{
+    height: 250px;
+    width: 250px;
+    float : left;    
+}
+
+.web{
+    height:250px;
+    width: 250px;
+    float:right;
+}
+
+.skill-row{
+    margin : 80px auto;
+    height : 400px;
+}
+
+
+
+.contact-me{
+    height:200px;
+    margin-top: 100px;;
+}
+.bottom-container{
+    height:100px;
+}
