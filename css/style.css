@@ -100,9 +100,7 @@ a{
     font-family: 'Nanum Gothic', sans-serif;
 }
 
-a:hover{
-    color: cyan;
-}
+
 
 hr{   
     border: dotted 6px;
@@ -112,6 +110,15 @@ hr{
     margin: 100px auto;
     
 }
+
+.imgs:hover{
+    height: 35px;
+    width: 35px;
+    margin : 0px;
+    padding:0px;
+}
+
+
 
 .button {
     background: #3DF6A3;
